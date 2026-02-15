@@ -1,4 +1,4 @@
-Torchat
+TORCHAT
 
 Torchat is an anonymous, encrypted messaging application that routes all traffic through the Tor network. It provides strong privacy guarantees by hiding metadata, using the Signal Protocol for end-to-end encryption, and adding additional layers of anonymity through random circuit routing and cover traffic.
 
