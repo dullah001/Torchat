@@ -1,4 +1,4 @@
-TORCHAT
+Torchat
 
 Torchat is an anonymous, encrypted messaging application that routes all traffic through the Tor network. It provides strong privacy guarantees by hiding metadata, using the Signal Protocol for end-to-end encryption, and adding additional layers of anonymity through random circuit routing and cover traffic.
 
@@ -36,7 +36,7 @@ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/torsignal.git
+   git clone https://github.com/dullah001/torsignal.git
    cd torsignal
    ```
 2. Install Python dependencies:
